@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Linkless04
-- 👀 I’m interested in cryptomoning
-- 🌱 I’m currently learning how to mine
-- 💞️ I’m looking to collaborate on mining pools
+- 👀 I’m interested in crypto arbitrage
+- 🌱 I’m currently learning how to mev arbitrage
+- 💞️ I’m looking to collaborate on developing mev arbitrage bots
+
 - 📫 How to reach me reinaldo.junior1998@gmail.com
 
 <!---
